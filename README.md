@@ -1,6 +1,20 @@
 # ALPHABET BANNER IN MINECRAFT
 
 <details>
+<summary>BANNER / ESTANDARTE</summary>
+<br>
+
+| MATERIALS | MATERIAIS |
+| ------------- | ------------- |
+| WOOL  | LÃ  |
+| STICK  | GRAVETO  |
+
+<img src="alphabet/banner.gif"/> <img src="alphabet/c-banner.png"/>
+</details>
+
+---
+
+<details>
 <summary>A</summary>
 <br>
 <img src="alphabet/A.png"/>
