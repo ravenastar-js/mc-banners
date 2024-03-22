@@ -1,4 +1,4 @@
-# Banner alphabet in Minecraft
+# ALPHABET BANNER IN MINECRAFT
 
 <details>
 <summary>A</summary>
