@@ -9,7 +9,7 @@
 | <img src="alphabet/White_Wool.png" width = 34px height = 34px/>  | WOOL  | LÃ  |
 | <img src="alphabet/Stick.png" width = 34px height = 34px/>  | STICK  | GRAVETO  | 
 
- <img src="alphabet/banner.gif" width = 150px >  <img src="alphabet/c-banner.png"/>
+<img src="alphabet/c-banner.png"/>   <img src="alphabet/banner.gif" width = 130px >
 </details>
 
 ---
